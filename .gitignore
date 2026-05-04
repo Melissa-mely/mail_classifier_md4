@@ -3,7 +3,13 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-mails.pkl 
+.env
+mails.pkl
+venv/
+__pycache__/
+token.json
+token_sheets.pickle
+client_secret.json
 
 # C extensions
 *.so
